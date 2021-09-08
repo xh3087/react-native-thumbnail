@@ -1,2 +1,2 @@
 # react-native-thumbnail
-修改Android11/API30可用
+引用phuochau/react-native-thumbnail修改Android11/API30可用
